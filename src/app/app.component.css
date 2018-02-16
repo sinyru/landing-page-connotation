@@ -1,0 +1,16 @@
+h2 {
+  font-family: 'Oswald';
+  font-size: 2.5em;
+  margin: 0 0 0.5em;
+  margin-bottom: 0;
+  font-weight: normal;
+
+}
+
+header {
+    text-align: center;
+}
+
+.blog-icon {
+  margin: 2em 0 2em 0;
+}
